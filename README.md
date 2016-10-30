@@ -13,4 +13,4 @@ A running Ubuntu 16.04 or an equivalent virtual machine
 See also the list of [contributors](https://github.com/NovasomIndustries/Doc/contributors) who participated in this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/NovasomIndustries/Doc/LICENSE.md) file for details
+This project is licensed under the MIT [LICENSE](https://github.com/NovasomIndustries/Doc/blob/master/LICENSE.md)
