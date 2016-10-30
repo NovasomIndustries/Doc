@@ -9,6 +9,6 @@ A running Ubuntu 16.04 or an equivalent virtual machine
 * Filippo Visocchi - Initial work - [NOVAsomIndustries](http://www.novasomindustries.com)  
 * Gabriele Martini - Initial work - [NOVAsomIndustries](http://www.novasomindustries.com)  
 * Michele Puca     - Initial work - [NOVAsomIndustries](http://www.novasomindustries.com)  
-See also the list of [contributors](https://github.com/NovasomIndustries/Doc/blob/master/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/NovasomIndustries/Doc/blob/master/contributors) who participated in this project.  
 ## License
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE ](https://github.com/NovasomIndustries/Doc/blob/master/LICENSE.md)
