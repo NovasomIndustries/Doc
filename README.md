@@ -1,6 +1,6 @@
 # NOVAsom_SDK 1.0.4 Doc
 This repo contains the documents for the NOVAsom_SDK 1.0.4 Novasom Industries 
-project
+project, browsable at https://novasomindustries.github.io/Doc/
 
 ## Prerequisities
 A running Ubuntu 16.04 or an equivalent virtual machine
